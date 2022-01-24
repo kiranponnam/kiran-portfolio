@@ -1,0 +1,94 @@
+.mainAboutContainer {
+  height: auto;
+  width: 100vw;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  margin: auto;
+  /* background-image: url('/src/maxwell-nelson-Se9ufo2dO_g-unsplash.jpg'); */
+}
+.profileContainer {
+  border-radius: 50%;
+  width: 120px;
+  object-fit: cover;
+  height: 120px;
+}
+.descriptionContainer {
+  color: #838383;
+  /* color: #ffff; */
+  font-size: 21px;
+  /* height: 40px; */
+  /* font-weight: bold; */
+  line-height: 40px;
+  /* color: rgba(0, 0, 0, 0.54); */
+}
+.middleAboutContainer {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+}
+.bottomSocialMediaContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 278px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5px;
+}
+.aboutMeHeadingContainer {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 41px;
+  font-family: Playfair;
+}
+.mainTechnicalSkillsContainer {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 41px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-family: Playfair;
+}
+.ResumeContainer {
+  margin: 9px;
+  height: 43px;
+}
+.topTechnicalSkillContainer {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-size: 21px;
+  padding: 8px;
+  /* width: 300px; */
+  width: 160px;
+  margin: auto;
+  padding: 3px 3px 28px 3px;
+  display: inline-block;
+}
+.skillItem {
+  padding: 5px;
+  color: green;
+  font-family: Playfair;
+  display: list-item;
+}
+.topAboutContainer{
+  background: #41b0bf;
+  width: 95vw;
+}
+.aboutTitle{
+  font-family: 'Sacramento',cursive !important;
+  text-transform: none;
+  font-weight: 400;
+  color: #fff;
+  font-size: 1.4em;
+  display: inline-block;
+}
