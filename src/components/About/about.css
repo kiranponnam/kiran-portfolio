@@ -1,6 +1,6 @@
 .mainAboutContainer {
   height: auto;
-  width: 100vw;
+  width: 100%;
   background-color: #ffff;
   display: flex;
   flex-direction: column;
@@ -9,12 +9,13 @@
   padding-top: 10px;
   margin: auto;
   /* background-image: url('/src/maxwell-nelson-Se9ufo2dO_g-unsplash.jpg'); */
+  object-fit: cover;
 }
 .profileContainer {
   border-radius: 50%;
-  width: 120px;
+  /* width: 120px; */
   object-fit: cover;
-  height: 120px;
+  /* height: 120px; */
 }
 .descriptionContainer {
   color: #838383;
@@ -29,7 +30,7 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 80px;
   margin-bottom: 0;
   max-width: 62.5em;
 }
@@ -39,7 +40,7 @@
   justify-content: space-evenly;
   width: 278px;
   text-align: center;
-  margin: auto;
+  margin: 10px;
   margin-top: 5px;
 }
 .aboutMeHeadingContainer {

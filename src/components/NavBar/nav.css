@@ -1,0 +1,24 @@
+.mainHeaderContainer {
+  text-decoration: none;
+  color: #ffff;
+}
+.headerbtnActive {
+  /* color: #A9A9A9; */
+  color: #ccc;
+  text-decoration: none;
+}
+.headerFixed {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 333;
+}
+.logo {
+  object-fit: cover;
+  border-radius: 10px;
+}
+.headerListItems {
+  color: #000;
+  font-family: Rubik;
+  font-weight: 500;
+}

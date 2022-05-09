@@ -1,0 +1,28 @@
+.technologyHeader {
+  color: #000;
+  font-family: Rubik;
+  font-weight: 700;
+}
+.cardContentContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.projectDescMainContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 18px;
+}
+.viewGithub {
+  color: #757575;
+  font-family: Rubik;
+  font-weight: 300;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footerIconsContainer {
+  box-shadow: rgb(232 236 255) 2px 2px 8px 3px;
+  border-radius: 45%;
+}
