@@ -49,7 +49,7 @@ export const projectsArray = [
   },
   {
     id: 5,
-    Project: "Text-To-Speech",
+    Project: "TextToSpeech",
     Description: "Text-to-speech-conversion",
     gitHubLink: "https://github.com/kiranponnam/text-to-speech",
     webSiteLink: "https://kirantexttospeech.netlify.app/",
