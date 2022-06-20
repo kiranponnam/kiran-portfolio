@@ -44,7 +44,14 @@ export const projectsArray = [
     id: 4,
     Project: "Portfolio",
     Description: "It built for portfolio",
-    gitHubLink: "https://github.com/kiranponnam/kiran-portfoliov",
+    gitHubLink: "https://github.com/kiranponnam/kiran-portfolio",
     webSiteLink: "https://kiranponnam.netlify.app/",
+  },
+  {
+    id: 5,
+    Project: "Text-To-Speech",
+    Description: "Text-to-speech-conversion",
+    gitHubLink: "https://github.com/kiranponnam/text-to-speech",
+    webSiteLink: "https://kirantexttospeech.netlify.app/",
   },
 ];

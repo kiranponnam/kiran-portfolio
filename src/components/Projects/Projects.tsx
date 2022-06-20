@@ -43,7 +43,7 @@ export const Projects = (props: any) => {
                 <CardActions>
                   <Button
                     size="small"
-                    onClick={() => window.open(item?.Project, "_blank")}
+                    onClick={() => window.open(item?.gitHubLink, "_blank")}
                   >
                     <img src={gitHubIcon} alt="githubIcon" />
                   </Button>
